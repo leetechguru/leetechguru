@@ -11,3 +11,6 @@ I am a passionate Full-Stack Developer who loves to build scalable web applicati
 ## 🌱 Currently learning:
 - Machine Learning
 - DevOps practices
+
+## 📧 Let's Connect:
+- Email: lee.techguru@gmail.com
