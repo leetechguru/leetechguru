@@ -1,4 +1,4 @@
-# Hi there, I'm John 👋
+# Hi there, I'm Leo 👋
 
 I am a passionate Full-Stack Developer who loves to build scalable web applications. I focus on modern JavaScript frameworks like React and Node.js.
 
