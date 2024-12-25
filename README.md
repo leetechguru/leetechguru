@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm John 👋
 
-<!--
-**leetechguru/leetechguru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Full-Stack Developer who loves to build scalable web applications. I focus on modern JavaScript frameworks like React and Node.js.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Tools:
+- JavaScript, React, Node.js
+- Python, Django, Flask
+- SQL, MongoDB
+- Docker, Kubernetes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently learning:
+- Machine Learning
+- DevOps practices
