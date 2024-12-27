@@ -16,9 +16,9 @@ Previously, I held roles as: Open-Source Evangelist of [Milvus](https://github.c
 
 Additionally, choose programming languages and tools based on mood and performance requirements, embracing flexibility in the selection process.
 
-![Leo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=soulteary&theme=gruvbox&show_icons=true&cache_seconds=7200&hide=prs,issues)
+![Leo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leetechguru&theme=gruvbox&show_icons=true&cache_seconds=7200&hide=prs,issues)
 
-![Leo Lee's GitHub stats - All Ranks](https://github-profile-trophy.vercel.app/?username=soulteary&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)
+![Leo Lee's GitHub stats - All Ranks](https://github-profile-trophy.vercel.app/?leetechguru=soulteary&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)
 
 I regularly share insights on [Zhihu](https://www.zhihu.com/people/soulteary) and [Weibo](https://weibo.com/u/1220149481). If you're active on these platforms, feel free to connect and engage with me.
 
