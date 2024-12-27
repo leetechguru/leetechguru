@@ -14,3 +14,20 @@ I am a passionate Full-Stack Developer who loves to build scalable web applicati
 
 ## 📧 Let's Connect:
 - Email: lee.techguru@gmail.com
+  
+---
+
+## 🛠️ Technologies & Tools
+- **Programming Languages**: Python, JavaScript
+- **Frameworks**: React, Node.js
+- **Tools**: Docker, Git
+
+---
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true)
+
+---
+
+## 🌟 Achievements
+- 🌟 [Shields.io](https://shields.io) badge achievements
