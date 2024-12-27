@@ -1,11 +1,12 @@
 
-## Hi, Want to know something?
+## 👋 Hi, I'm Leo!
 
-I'm an open-source software developer and [blogger](https://soulteary.com/?from-github), I'm often active [on the Zhihu community](https://zhuanlan.zhihu.com/p/706303216). Since late 2022, I've been studying at an investment institution while collaborating with its partners and tech community allies to research and implement cutting-edge technologies.
+🔹 Full Stack Developer | 8+ years of experience
+🔹 Skilled in C/C++, Python, Java, React, and NetSuite
 
-I also serve as an ambassador for [Dify](https://github.com/langgenius/dify) and [PerfXCloud](https://cloud.perfxlab.cn/) in China. If you're interested in community partnerships, I welcome the opportunity to discuss potential collaborations. 👋
-
-Previously, I held roles as: Open-Source Evangelist of [Milvus](https://github.com/milvus-io), Technical Director of [Beijing Artificial Intelligence Research Institutes](https://www.baai.ac.cn) Community R&D and IT, [Meituan Technical](https://tech.meituan.com/) Evangelist, [X Financial](https://ir.xiaoyinggroup.com/) Front End Architect, Senior Front End Development Engineer at [Alibaba Cloud](https://www.aliyun.com/), [Meituan](https://about.meituan.com/), [Taobao](https://www.taobao.com/) and [Sina Cloud](https://www.sinacloud.com/doc/about.html).
+💡 I love building clean, scalable solutions and solving complex problems with code.
+🌱 Currently exploring AI integratoin.
+📫 Reach out to collaborate on innovative projects or share ideas!
 
 **I often use:**  
 
