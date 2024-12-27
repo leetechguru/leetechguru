@@ -1,8 +1,7 @@
 
 ## 👋 Hi, I'm Leo!
-
-🔹 Full Stack Developer | 8+ years of experience
-🔹 Skilled in C/C++, Python, Java, React, and NetSuite
+# Full Stack Developer | 8+ years of experience
+# Skilled in C/C++, Python, Java, React, and NetSuite
 
 💡 I love building clean, scalable solutions and solving complex problems with code.
 🌱 Currently exploring AI integratoin.
