@@ -22,6 +22,4 @@ Additionally, choose programming languages and tools based on mood and performan
 
 ![Leo Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=leetechguru&theme=gruvbox&show_icons=true&cache_seconds=7200&hide=prs,issues)
 
-![Su Yang's GitHub stats - All Ranks](https://github-profile-trophy.vercel.app/?username=soulteary&theme=gruvbox&column=7&margin-w=15&margin-h=15&title=AllSuperRank,MultiLanguage,Stars,Commits,Follower,Issues,PullRequest)
-
 Interested in networking? Learn more about [makeing friends with me](https://zhuanlan.zhihu.com/p/557928933).
